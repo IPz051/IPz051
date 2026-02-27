@@ -1,5 +1,9 @@
 # Hi, I'm Iggor 👋
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV4dXhsb203MGxobWw1N3htZ2w1dGN4Yzl1ZXF1aW10bzE1MGxqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="450"/>
+</p>
+
 Full‑stack developer from Jaboatão dos Guararapes, Pernambuco — Brazil 🇧🇷
 
 I like building practical solutions for real‑world problems, solving business and people pains with creativity and efficiency.
@@ -34,3 +38,6 @@ Available for freelance and contracts.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
+### 📫 Contact
+
+Contact me via: [WhatsApp](https://wa.me/5581997562682) | [Email](mailto:iggorpaz@gmail.com)
