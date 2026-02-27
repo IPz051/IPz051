@@ -1,13 +1,23 @@
-# Hi, I'm Iggor 👋
+<table>
+<tr>
+<td width="260">
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV4dXhsb203MGxobWw1N3htZ2w1dGN4Yzl1ZXF1aW10bzE1MGxqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="450"/>
-</p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV4dXhsb203MGxobWw1N3htZ2w1dGN4Yzl1ZXF1aW10bzE1MGxqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="240"/>
 
-Full‑stack developer from Jaboatão dos Guararapes, Pernambuco — Brazil 🇧🇷
+</td>
+<td>
 
-I like building practical solutions for real‑world problems, solving business and people pains with creativity and efficiency.
-Available for freelance and contracts.
+### Hi, I'm Iggor 👋
+
+Full-stack developer from Brazil focused on backend architecture and real-world solutions.
+
+I build systems, not just interfaces.
+
+Available for freelance & contracts.
+
+</td>
+</tr>
+</table>
 
 ---
 
