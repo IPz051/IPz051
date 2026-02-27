@@ -9,11 +9,11 @@
 
 ### Hi, I'm Iggor 👋
 
-Full-stack developer from Brazil focused on backend architecture and real-world solutions.
+Full-stack developer from Brazil building real products and useful systems.
 
-I build systems, not just interfaces.
+I transform ideas and business needs into working software.
 
-Available for freelance & contracts.
+Available for freelance and contract opportunities.
 
 </td>
 </tr>
