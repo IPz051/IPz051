@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+AWS;Backend+Engineering+%26+Software+Architecture;Building+Scalable+REST+APIs;Clean+Architecture+%7C+Cloud+Computing;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+AWS;Backend+Engineering+%26+Software+Architecture;Building+Scalable+REST+APIs;Clean+Architecture+%7C+Cloud+Computing"/>
 
 </div>
 
@@ -31,8 +31,8 @@ main_stack:
 
 currently_learning:
   - Software Architecture
-  - Cloud Computing
   - Docker
+  - Cloud Computing
   - Scalable Systems
 
 interests:
@@ -64,79 +64,6 @@ interests:
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🔹 Finance API
-
-REST API focused on:
-
-* JWT Authentication
-* Role-based Access
-* Financial Management
-* Secure Endpoints
-
-### Stack
-
-```txt
-Java • Spring Boot • PostgreSQL • Docker
-```
-
-🔗 Repository: LINK_HERE
-
-</td>
-
-<td width="50%">
-
-## 🔹 Study Organizer Platform
-
-Platform designed to:
-
-* organize study routines
-* manage productivity
-* track learning goals
-
-### Stack
-
-```txt
-Spring Boot • React • PostgreSQL
-```
-
-🔗 Repository: LINK_HERE
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
