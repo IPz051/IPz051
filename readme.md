@@ -1,19 +1,53 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=IGGOR%20PAZ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full-stack%20Developer&descAlignY=58&descSize=20"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+AWS;Backend+Engineering+%26+Software+Architecture;Building+Scalable+REST+APIs;Clean+Architecture+%7C+Cloud+Computing;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
 <table>
 <tr>
-<td width="260">
+<td width="55%">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV4dXhsb203MGxobWw1N3htZ2w1dGN4Yzl1ZXF1aW10bzE1MGxqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="240"/>
+# 👨‍💻 About Me
+
+```yaml
+name: Iggor Paz
+role: Backend-focused Full-stack Developer
+
+education:
+  - Software Engineering Student
+
+main_stack:
+  - Java
+  - Spring Boot
+  - PostgreSQL
+  - AWS
+
+currently_learning:
+  - Software Architecture
+  - Cloud Computing
+  - Docker
+  - Scalable Systems
+
+interests:
+  - Backend Engineering
+  - REST APIs
+  - Clean Code
+  - Real-world Applications
+  - Music Production
+```
 
 </td>
-<td>
 
-### Hi, I'm Iggor 👋
+<td width="45%">
 
-Full-stack developer from Brazil building real products and useful systems.
-
-I transform ideas and business needs into working software.
-
-Available for freelance and contract opportunities.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 </td>
 </tr>
@@ -21,33 +55,151 @@ Available for freelance and contract opportunities.
 
 ---
 
-## 🧠 Tech Stack
+# ⚡ Main Stack
 
-### Frontend
+<div align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/NextJS-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,aws,docker,git,github,linux&theme=dark" />
 
-### Backend
+<br><br>
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express\&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" />
 
-### DevOps & Infrastructure
+</div>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+---
 
-### 📫 Contact
+# 🚀 Featured Projects
 
-Contact me via: [WhatsApp](https://wa.me/5581997562682) | [Email](mailto:iggorpaz@gmail.com)
+<table>
+<tr>
+
+<td width="50%">
+
+## 🔹 Finance API
+
+REST API focused on:
+
+* JWT Authentication
+* Role-based Access
+* Financial Management
+* Secure Endpoints
+
+### Stack
+
+```txt
+Java • Spring Boot • PostgreSQL • Docker
+```
+
+🔗 Repository: LINK_HERE
+
+</td>
+
+<td width="50%">
+
+## 🔹 Study Organizer Platform
+
+Platform designed to:
+
+* organize study routines
+* manage productivity
+* track learning goals
+
+### Stack
+
+```txt
+Spring Boot • React • PostgreSQL
+```
+
+🔗 Repository: LINK_HERE
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+```java
+public class CurrentGoals {
+
+    String focus = "Backend Engineering";
+
+    List<String> goals = List.of(
+        "Build scalable systems",
+        "Improve software architecture skills",
+        "Master Spring Boot ecosystem",
+        "Learn AWS Cloud",
+        "Develop production-ready applications"
+    );
+
+}
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:iggorpaz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5581997562682">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚙️ Engineering Mindset
+
+<div align="center">
+
+```java
+while(alive) {
+    learn();
+    build();
+    improve();
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"/>
+
+</div>
