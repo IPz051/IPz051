@@ -1,10 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,100:1f6feb&text=IGGOR%20PAZ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Java%20%26%20Node.js&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:0d1117,100:1f6feb&amp;text=IGGOR%20PAZ&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Desenvolvedor%20Backend%20%7C%20Java%20%2B%20Node.js&amp;descAlignY=58&amp;descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;APIs+REST+escal%C3%A1veis+e+seguras;PostgreSQL+%7C+Redis+%7C+AWS+%7C+Docker"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Java+%7C+Spring+Boot+%7C+Node.js+%7C+TypeScript;APIs+REST+escal%C3%A1veis+e+seguras;PostgreSQL+%7C+Redis+%7C+AWS+%7C+Docker"/>
+
 
 <br><br>
 
@@ -104,8 +105,11 @@ Gosto de construir APIs bem estruturadas, seguras e fáceis de manter. Também p
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IPz051&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPz051&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://streak-stats.demolab.com/?user=IPz051&amp;theme=github-dark-blue&amp;hide_border=true" />
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/1f6feb/IPz051" alt="Gráfico de contribuições" />
 
 </div>
 
