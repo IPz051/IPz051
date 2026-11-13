@@ -93,14 +93,6 @@ Gosto de construir APIs bem estruturadas, seguras e fáceis de manter. Também p
 
 ---
 
-## 📚 Estudando agora
-
-- Arquitetura de software e Clean Architecture
-- AWS e Cloud Computing
-- Docker e sistemas escaláveis
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -119,7 +111,7 @@ Gosto de construir APIs bem estruturadas, seguras e fáceis de manter. Também p
 
 <div align="center">
 
-📫 **iggorpaz@gmail.com** · [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
+📫 **iggorpaz@gmail.com** · [LinkedIn](https://www.linkedin.com/in/iggor-paz-920a03366/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer"/>
 
